@@ -3,6 +3,11 @@ Django-Mxit
 
 Middleware for writing Mxit apps with Django.
 
+|django-mxit|_
+
+.. |django-mxit| image:: https://travis-ci.org/praekelt/django-mxit.png?branch=develop
+.. _django-mxit: https://travis-ci.org/praekelt/django-mxit
+
 ::
 
     MIDDLEWARE_CLASSES = (
